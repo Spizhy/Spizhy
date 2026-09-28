@@ -1,3 +1,6 @@
+![alt text]()
+
+
 # 💫 About Me:
 Front-end developer focused on e-commerce interfaces. <br>Proficient in HTML, CSS, and JavaScript. <br>Building responsive, production-ready websites.
 
